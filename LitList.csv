@@ -1,3 +1,11 @@
-Документация TASM;https://citforum.ru/programming/tasm3/index.shtml
-Документация NASM;https://www.nasm.us/doc/nasmdoc0.html
-Документация FASM;https://flatassembler.net/docs.php?article=manual
+NT32;https://j00ru.vexillium.org/syscalls/nt/32/
+NT64;https://j00ru.vexillium.org/syscalls/nt/64/
+Win32k 32;https://j00ru.vexillium.org/syscalls/win32k/32/
+Win32k 64;https://j00ru.vexillium.org/syscalls/win32k/64/
+Undocumented NTAPI functions;http://undocumented.ntinternals.net/index.html
+Cheatsheet about long arimphetics in assembly language (64+64 in 32-bit, or 32+32 in 16-bit mode);https://forum.sources.ru/index.php?showtopic=215557
+PE structure cheatsheet;https://www.aldeid.com/wiki/PE-Portable-executable
+x86_64 instruction set;https://www.felixcloutier.com/x86/
+Wow64 NT and GDI numbers;http://fasmgenius.prohosts.org/w10_21h2.php
+Official FASM documentation;https://flatassembler.net/docs.php
+WinAPI official documentation;https://learn.microsoft.com/en-us/search/?category=Documentation
